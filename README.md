@@ -1,2 +1,5 @@
-# learning-git flutter create screen_recorder_app
-# cd screen_recorder_app
+# main
+flutter pub get
+flutter build apk        # Android
+flutter build ios        # iOS (macOS only)
+flutter build windows    # Windows Desktop
